@@ -1,0 +1,38 @@
+{
+  "name": "PKG Guru 2026 · Aplikasi Penilaian Kinerja Guru",
+  "short_name": "PKG Guru",
+  "description": "Aplikasi Penilaian Kinerja Guru (PKG) multi sekolah sesuai KEPDIRJEN PENDIS No. 1843 Tahun 2021.",
+  "lang": "id",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f5f9",
+  "theme_color": "#0d9488",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
